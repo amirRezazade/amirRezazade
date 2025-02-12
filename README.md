@@ -14,7 +14,7 @@ Frontend Developer with over 3 Years of professional experience in web designing
 
 ### My Skills
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-html-5-128.png?raw=true" width="50" height="50" alt="HTML5" /></a>
  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-css3-100.png?raw=true" width="50" height="50" alt="CSS3" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-javascript-100.png?raw=true" width="50" height="50" alt="Javascript" /></a>
