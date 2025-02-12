@@ -12,6 +12,8 @@ Frontend Developer with over 3 Years of professional experience in web designing
 - 🤝  I'm open to collaborating on React based projects
 - ⚡  Professional Developer Ant Coach In Javascript Based Courses
 
+
+<hr>
 <h3 align="center">My Skills</h3>
 
 <p align="center">
@@ -24,11 +26,12 @@ Frontend Developer with over 3 Years of professional experience in web designing
 
 </p>
 
-### Social
+<hr>
+<h3 align="center">My Socials</h3>
 
-<p align="left">
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/behance.svg" width="32" height="32" /></a>
+<p align="center">
+    <a href="https://t.me/amir_rezade" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-telegram-96.png?raw=true" width="50" height="50" alt="telegram"/></a>
+    <a href="https://instagram.com/amir._.xpx" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-instagram-100.png?raw=true" width="50" height="50" alt="instagram"/></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-linkedin-100.png?raw=true" width="50" height="50" alt="linkedin"/></a>
+   
 </p>
