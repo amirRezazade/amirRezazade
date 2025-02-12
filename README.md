@@ -12,7 +12,7 @@ Frontend Developer with over 3 Years of professional experience in web designing
 - 🤝  I'm open to collaborating on React based projects
 - ⚡  Professional Developer Ant Coach In Javascript Based Courses
 
-### My Skills
+<h3 align="center">My Skills</h3>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-html-5-128.png?raw=true" width="50" height="50" alt="HTML5" /></a>
