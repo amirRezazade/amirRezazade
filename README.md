@@ -23,6 +23,7 @@ Frontend Developer with over 3 Years of professional experience in web designing
      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-bootstrap-96.png?raw=true" width="50" height="50" alt="Bootstrap" /></a>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-git-96.png?raw=true" width="50" height="50" alt="git" /></a>
      <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-github-94.png?raw=true" width="50" height="50" alt="github" /></a>
+     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amirRezazade/amirRezazade/refs/heads/main/icons8-tailwind-css-50.png" width="50" height="50" alt="tailwind" /></a>
 
 </p>
 
