@@ -1,39 +1,77 @@
+<div align="center">
+<!-- <img width="100%" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3BbHyXV6tAwMlnKMueRRbnqqqoIsxAx6KIA&s" alt="Snake animation" /> -->
 
-# Hi 🙋‍♂️ My name is Amir Rezazadeh
+</div>  
+  
 
-### front-end Developer
+# <div align="center">🖥️ Amir Rezazadeh | Front-End Developer</div>  
+  
 
----
-
-Frontend Developer with over 3 Years of professional experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | jQuery | Bootstrap | ReactJS practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
-
-- 🌍  I'm based in Delhi-NCR (India)
-- 🧠  I'm learning NextJS
-- 🤝  I'm open to collaborating on React based projects
-- ⚡  Professional Developer Ant Coach In Javascript Based Courses
+### *<div align="center">Hi! I'm Amir Rezazadeh, a passionate Front-End Developer who loves building clean, responsive, and user-friendly web applications.</div>*  
+  
 
 
-<hr>
-<h3 align="center">My Skills</h3>
 
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-html-5-128.png?raw=true" width="50" height="50" alt="HTML5" /></a>
- <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-css3-100.png?raw=true" width="50" height="50" alt="CSS3" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-javascript-100.png?raw=true" width="50" height="50" alt="Javascript" /></a>
-     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-bootstrap-96.png?raw=true" width="50" height="50" alt="Bootstrap" /></a>
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-git-96.png?raw=true" width="50" height="50" alt="git" /></a>
-     <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-github-94.png?raw=true" width="50" height="50" alt="github" /></a>
-     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amirRezazade/amirRezazade/refs/heads/main/icons8-tailwind-css-50.png" width="50" height="50" alt="tailwind" /></a>
-        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amirRezazade/amirRezazade/refs/heads/main/icons8-npm-96.png" width="50" height="50" alt="npm" /></a>
+### 🚀 About Me  
+- 🌱 I started learning **HTML**, **CSS**, and **JavaScript** about 2 years ago.   
+  
 
-</p>
+- 💡 Interested in **UI/UX Design**, **animations**, and **responsive web development**.  
+  
 
-<hr>
-<h3 align="center">My Socials</h3>
+- ⚛️ Currently learning **React** and modern front-end tools.  
+  
 
-<p align="center">
-    <a href="https://t.me/amir_rezade" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-telegram-96.png?raw=true" width="50" height="50" alt="telegram"/></a>
-    <a href="https://instagram.com/amir._.xpx" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-instagram-100.png?raw=true" width="50" height="50" alt="instagram"/></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/amirRezazade/amirRezazade/blob/main/icons8-linkedin-100.png?raw=true" width="50" height="50" alt="linkedin"/></a>
-   
-</p>
+- 🤝 Looking for opportunities to grow, collaborate, and contribute to real-world projects. 
+
+-  
+  <a href="Amir-Rezazade-resume.pdf" download>
+    📄 <b> Download My Resume (PDF)</b>
+  </a>
+
+  
+
+<br/>  
+
+
+## My Skill
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Git" height="50" /></a>  
+<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="Git" height="50" /></a>  
+</div>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=https://mail.google.com/mail/,+a.rezazade.dev@gmail.com" target="_blank">
+<img src=https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge alt=GMAIL style="margin-bottom: 5px;" />
+</a>
+<a href="https://amirrezazade.github.io/portfolio/" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/amir_rezade" target="_blank">
+<img src=https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge alt=telegram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://instagram.com/https://instagram.com/amir._.xpx" target="_blank">
+<img src=https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.linkedin.com/in/amir-rezazadeh-7086a6345/" target="_blank">
+<img src=https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge style="margin-bottom: 5px;" />
+</a>
+</div>  
+<br/>  
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/amirRezazade/amirRezazade/output/snake.svg" alt="Snake animation" />
+
+</div>  
+
