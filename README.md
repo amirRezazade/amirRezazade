@@ -1,10 +1,11 @@
 <div align="center">
-<!-- <img width="100%" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3BbHyXV6tAwMlnKMueRRbnqqqoIsxAx6KIA&s" alt="Snake animation" /> -->
+<img width="100%" height="300" src="bg.jpg" alt="Snake animation" style="border-radius:'20px' "/>
 
 </div>  
   
 
-# <div align="center">🖥️ Amir Rezazadeh | Front-End Developer</div>  
+# <div align="center" style="margin-top: 20px">🖥️ Amir Rezazadeh | Front-End Developer</div>  
+  
   
 
 ### *<div align="center">Hi! I'm Amir Rezazadeh, a passionate Front-End Developer who loves building clean, responsive, and user-friendly web applications.</div>*  
