@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="300" src="Untitled design (2).png" alt="Snake animation" style="border-radius:'20px' "/>
+<img width="100%" height="300" src="bg.png" alt="Snake animation" style="border-radius:'20px' "/>
 
 </div>  
   
