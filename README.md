@@ -26,7 +26,7 @@
 - 🤝 Looking for opportunities to grow, collaborate, and contribute to real-world projects. 
 
 -  📄 [Download My Resume (PDF)](https://github.com/amirRezazade/amirRezazade/raw/main/Amir-Rezazade-resume.pdf)
--  📄 [Download My Resume (PDF)](https://github.com/amirRezazade/amirRezazade/blob/main/AmirRezazade.pdf)
+-  📄 [Download My Resume (PDF)](https://github.com/amirRezazade/amirRezazade/raw/main/AmirRezazade.pdf)
 
   
 
