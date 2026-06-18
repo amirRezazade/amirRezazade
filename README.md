@@ -54,7 +54,7 @@
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=https://mail.google.com/mail/,+a.rezazade.dev@gmail.com" target="_blank">
 <img src=https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge alt=GMAIL style="margin-bottom: 5px;" />
 </a>
-<a href="https://amirrezazade.github.io/portfolio/" target="_blank">
+<a href="https://amir-rezazade.vercel.app/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/amir_rezade" target="_blank">
