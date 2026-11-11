@@ -1,77 +1,92 @@
-<div align="center">
-<img width="100%" height="300" src="bg.png" alt="Snake animation" style="border-radius:'20px' "/>
+# Hi, I'm Amir Rezazadeh
 
-</div>  
-  
+### Front-End Developer | React · Next.js · TypeScript
 
-# <div align="center" style="margin-top: 20px">🖥️ Amir Rezazadeh | Front-End Developer</div>  
-  
-  
+I'm a Front-End Developer focused on building web applications with React, Next.js, and TypeScript. With a background in Computer Engineering, I enjoy developing practical projects, crafting responsive interfaces, and writing clean, maintainable code.
 
-### *<div align="center">Hi! I'm Amir Rezazadeh, a passionate Front-End Developer who loves building clean, responsive, and user-friendly web applications.</div>*  
-  
+[![Download Resume](https://img.shields.io/badge/Download_Resume-DC2626?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/amirRezazade/amirRezazade/raw/main/Amir-Rezazade-FrontEnd-Developer.pdf)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D5DFC?style=flat-square&logo=vercel&logoColor=white)](https://amir-rezazade.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-rezazade-dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:a.rezazade.dev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amir_rezade)
 
+---
 
-### 🚀 About Me  
-- 🌱 I started learning **HTML**, **CSS**, and **JavaScript** about 2 years ago.   
-  
+## Tech Stack
 
-- 💡 Interested in **UI/UX Design**, **animations**, and **responsive web development**.  
-  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,git,github&perline=11" />
+</p>
 
-- ⚛️ Currently learning **React** and modern front-end tools.  
-  
+---
 
-- 🤝 Looking for opportunities to grow, collaborate, and contribute to real-world projects. 
+## Featured Projects
 
--  📄 [Download My Resume (PDF)](https://github.com/amirRezazade/amirRezazade/raw/main/Amir-Rezazade-FrontEnd-Developer.pdf)
+### 01. Nexora Admin
 
-  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/amirRezazade/Nexora-admin/master/public/brand/nexora-demo.png" width="210" align="left" alt="Nexora Admin Preview" />
+</p>
 
-<br/>  
+A modern e-commerce admin dashboard featuring product, order, customer, and analytics management, with bilingual RTL/LTR support and automated end-to-end tests.
 
+**Next.js · React · Redux Toolkit · Tailwind CSS · Playwright**
 
-## My Skill
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" /></a> 
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="icons8-github-94.png" alt="Git-Hub" height="50" /></a>  
-<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="50" /></a>  
-</div>  
+[Live Demo](https://nexora-admin-chi.vercel.app/) · [Source Code](https://github.com/amirRezazade/Nexora-admin)
 
-<br/>  
+<br clear="left"/>
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=https://mail.google.com/mail/,+a.rezazade.dev@gmail.com" target="_blank">
-<img src=https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge alt=GMAIL style="margin-bottom: 5px;" />
-</a>
-<a href="https://amir-rezazade.vercel.app/" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/amir_rezade" target="_blank">
-<img src=https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge alt=telegram style="margin-bottom: 5px;" />
-</a>  
-<a href="https://instagram.com/https://instagram.com/amir._.xpx" target="_blank">
-<img src=https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<a href="https://linkedin.com/in/amir-rezazade-dev" target="_blank">
-<img src=https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge style="margin-bottom: 5px;" />
-</a>
-</div>  
-<br/>  
+### 02. Personal Portfolio
 
+<p align="left">
+  <img src="https://opengraph.githubassets.com/1/amirRezazade/portfolio" width="210" align="left" alt="Portfolio Preview" />
+</p>
 
-<!-- <div align="center">
-<img src="https://raw.githubusercontent.com/amirRezazade/amirRezazade/output/snake.svg" alt="Snake animation" />
+A bilingual personal portfolio featuring a custom loading animation, space-inspired visuals, responsive layouts, and accessible interactions.
 
-</div>   -->
+**Next.js · React · Tailwind CSS · JavaScript**
 
+[Live Demo](https://amir-rezazade.vercel.app/) · [Source Code](https://github.com/amirRezazade/portfolio)
+
+<br clear="left"/>
+
+---
+
+### 03. Digi Plus
+
+<p align="left">
+  <img src="https://opengraph.githubassets.com/1/amirRezazade/Digi-Plus" width="210" align="left" alt="Digi Plus Preview" />
+</p>
+
+A React-based e-commerce project featuring a modern shopping interface and reusable frontend components.
+
+**React · JavaScript · CSS**
+
+[Live Demo](https://digi-plus-theta.vercel.app/) · [Source Code](https://github.com/amirRezazade/Digi-Plus)
+
+<br clear="left"/>
+
+---
+
+### 04. Digi Media
+
+<p align="left">
+  <img src="https://opengraph.githubassets.com/1/amirRezazade/digi-media-NextJs" width="210" align="left" alt="Digi Media Preview" />
+</p>
+
+A Next.js-based frontend project showcasing my experience building modern web interfaces.
+
+**Next.js · React · JavaScript**
+
+[Source Code](https://github.com/amirRezazade/digi-media-NextJs)
+
+<br clear="left"/>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i>
+</p>
