@@ -1,4 +1,4 @@
-  <img src="banner.png" width="100%" height="300" align="left" alt="banner Preview" />
+  <img src="banner.jpg" width="100%" height="300" align="left" alt="banner Preview" />
 
 # Hi, I'm Amir Rezazadeh
 
@@ -25,23 +25,7 @@ I'm a Front-End Developer focused on building web applications with React, Next.
 
 ## Featured Projects
 
-### 01. Nexora Admin
-
-<p align="left">
-  <img src="projects-image/nexora-admin.jpg" width="210" align="left" alt="Nexora Admin Preview" />
-</p>
-
-A modern e-commerce admin dashboard featuring product, order, customer, and analytics management, with bilingual RTL/LTR support and automated end-to-end tests.
-
-**Next.js · React · Redux Toolkit · Tailwind CSS · Playwright**
-
-[Live Demo](https://nexora-admin-app.vercel.app/) · [Source Code](https://github.com/amirRezazade/Nexora-admin)
-
-<br clear="left"/>
-
----
-
-### 02. Personal Portfolio
+### 01. Personal Portfolio
 
 <p align="left">
   <img src="projects-image/portfolio.jpg" width="210" align="left" alt="Portfolio Preview" />
@@ -56,7 +40,20 @@ A bilingual personal portfolio featuring a custom loading animation, space-inspi
 <br clear="left"/>
 
 ---
+### 02. Nexora Admin
 
+<p align="left">
+  <img src="projects-image/nexora-admin.jpg" width="210" align="left" alt="Nexora Admin Preview" />
+</p>
+
+A complete e-commerce admin dashboard built with Next.js 16 and Supabase, covering products, orders, customers, coupons, and analytics, with a fully bilingual Persian/English interface and real RTL support.
+**Next.js · React · Redux Toolkit · Tailwind CSS · Supabase**
+
+[Live Demo](https://nexora-admin-app.vercel.app/) · [Source Code](https://github.com/amirRezazade/Nexora-admin)
+
+<br clear="left"/> 
+
+---
 ### 03. Digi Plus
 
 <p align="left">
@@ -72,14 +69,13 @@ A React-based e-commerce project featuring a modern shopping interface and reusa
 <br clear="left"/>
 
 ---
-
 ### 04. Digi Media
 
 <p align="left">
   <img src="projects-image/digi-media.jpg" width="210" align="left" alt="Digi Media Preview" />
 </p>
 
-A Next.js-based frontend project showcasing my experience building modern web interfaces.
+A movie, series, and actor discovery platform powered by live TMDB data, with advanced search and filtering, rich detail pages including trailers and cast, a personal watchlist.
 
 **Next.js · React · JavaScript**
 
