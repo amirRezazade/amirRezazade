@@ -26,7 +26,7 @@ I'm a Front-End Developer focused on building web applications with React, Next.
 ### 01. Nexora Admin
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/amirRezazade/Nexora-admin/master/public/brand/nexora-demo.png" width="210" align="left" alt="Nexora Admin Preview" />
+  <img src="projects-image/nexora-admin.jpg" width="210" align="left" alt="Nexora Admin Preview" />
 </p>
 
 A modern e-commerce admin dashboard featuring product, order, customer, and analytics management, with bilingual RTL/LTR support and automated end-to-end tests.
@@ -42,7 +42,7 @@ A modern e-commerce admin dashboard featuring product, order, customer, and anal
 ### 02. Personal Portfolio
 
 <p align="left">
-  <img src="https://opengraph.githubassets.com/1/amirRezazade/portfolio" width="210" align="left" alt="Portfolio Preview" />
+  <img src="projects-image/portfolio.jpg" width="210" align="left" alt="Portfolio Preview" />
 </p>
 
 A bilingual personal portfolio featuring a custom loading animation, space-inspired visuals, responsive layouts, and accessible interactions.
@@ -58,7 +58,7 @@ A bilingual personal portfolio featuring a custom loading animation, space-inspi
 ### 03. Digi Plus
 
 <p align="left">
-  <img src="https://opengraph.githubassets.com/1/amirRezazade/Digi-Plus" width="210" align="left" alt="Digi Plus Preview" />
+  <img src="projects-image/digi-plus.jpg" width="210" align="left" alt="Digi Plus Preview" />
 </p>
 
 A React-based e-commerce project featuring a modern shopping interface and reusable frontend components.
@@ -74,7 +74,7 @@ A React-based e-commerce project featuring a modern shopping interface and reusa
 ### 04. Digi Media
 
 <p align="left">
-  <img src="https://opengraph.githubassets.com/1/amirRezazade/digi-media-NextJs" width="210" align="left" alt="Digi Media Preview" />
+  <img src="projects-image/digi-media.jpg" width="210" align="left" alt="Digi Media Preview" />
 </p>
 
 A Next.js-based frontend project showcasing my experience building modern web interfaces.
