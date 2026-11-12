@@ -1,3 +1,5 @@
+  <img src="banner.png" width="100%" height="300" align="left" alt="banner Preview" />
+
 # Hi, I'm Amir Rezazadeh
 
 ### Front-End Developer | React · Next.js · TypeScript
@@ -33,7 +35,7 @@ A modern e-commerce admin dashboard featuring product, order, customer, and anal
 
 **Next.js · React · Redux Toolkit · Tailwind CSS · Playwright**
 
-[Live Demo](https://nexora-admin-chi.vercel.app/) · [Source Code](https://github.com/amirRezazade/Nexora-admin)
+[Live Demo](https://nexora-admin-app.vercel.app/) · [Source Code](https://github.com/amirRezazade/Nexora-admin)
 
 <br clear="left"/>
 
@@ -65,7 +67,7 @@ A React-based e-commerce project featuring a modern shopping interface and reusa
 
 **React · JavaScript · CSS**
 
-[Live Demo](https://digi-plus-theta.vercel.app/) · [Source Code](https://github.com/amirRezazade/Digi-Plus)
+[Live Demo](https://digi-plus-store.vercel.app/) · [Source Code](https://github.com/amirRezazade/Digi-Plus)
 
 <br clear="left"/>
 
@@ -81,7 +83,7 @@ A Next.js-based frontend project showcasing my experience building modern web in
 
 **Next.js · React · JavaScript**
 
-[Source Code](https://github.com/amirRezazade/digi-media-NextJs)
+[Live Demo](https://digi-media-next.vercel.app/) · [Source Code](https://github.com/amirRezazade/digi-media-NextJs)
 
 <br clear="left"/>
 
